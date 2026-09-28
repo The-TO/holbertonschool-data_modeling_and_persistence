@@ -1,1 +1,1 @@
-SELECT title, price FROM books WHERE price > 20 AND genre = 'Tech';
+SELECT title, price FROM books WHERE price > 20;
