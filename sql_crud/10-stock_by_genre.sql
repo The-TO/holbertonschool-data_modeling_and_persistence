@@ -1,3 +1,3 @@
-SELECT genre, stock COUNT(*)
+SELECT genre, SUM(stock)
 FROM books
-GROUP BY genre
+GROUP BY genre;
