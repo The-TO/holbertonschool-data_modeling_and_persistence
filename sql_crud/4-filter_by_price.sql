@@ -1,0 +1,1 @@
+SELECT title, price FROM books_dataset WHERE price > 20;
