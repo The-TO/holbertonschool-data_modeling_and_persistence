@@ -1,3 +1,3 @@
-SELECT author COUNT(*)
+SELECT author, COUNT(*)
 FROM books
 GROUP BY author
