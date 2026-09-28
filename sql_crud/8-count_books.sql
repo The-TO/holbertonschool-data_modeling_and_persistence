@@ -1,1 +1,1 @@
-SELECT COUNT5(*) FROM books
+SELECT COUNT(*) FROM books
