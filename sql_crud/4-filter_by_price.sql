@@ -1,1 +1,1 @@
-SELECT title, price FROM books_dataset.db WHERE price > 20;
+SELECT title, price FROM books WHERE price > 20;
