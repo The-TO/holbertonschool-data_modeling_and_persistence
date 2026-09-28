@@ -1,0 +1,1 @@
+SELECT COUNT5(*) FROM books
