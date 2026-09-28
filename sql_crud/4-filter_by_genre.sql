@@ -1,1 +1,1 @@
-SELECT title, author FROM books_dataset WHERE genre = 'Tech';
+SELECT title, author FROM books_dataset.db WHERE genre = 'Tech';

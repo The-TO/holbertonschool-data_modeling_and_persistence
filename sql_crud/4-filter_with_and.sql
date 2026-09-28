@@ -1,1 +1,1 @@
-SELECT title, genre FROM books_dataset WHERE genre = 'FANTASY' OR price < 10;
+SELECT title, genre FROM books_dataset.db WHERE genre = 'FANTASY' OR price < 10;
