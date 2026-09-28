@@ -1,2 +1,2 @@
 DELETE FROM BOOKS 
-WHERE stock = 0
+WHERE stock = 0;
